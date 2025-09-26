@@ -1,7 +1,0 @@
-node_modules/
-.venv/
-.env
-playwright-report/
-__pycache__/
-*.pyc
-.DS_Store
