@@ -1,0 +1,11 @@
+[project]
+name = "flashagent"
+version = "0.1.0"
+description = "FlashAgent demos"
+requires-python = ">=3.12"
+dependencies = [
+    "browser-use[memory]==0.2.5",
+    "fastapi>=0.115.2",
+    "uvicorn>=0.34",
+    "patchright>=1.52",
+]
