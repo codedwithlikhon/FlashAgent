@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.idea/
+.vscode/
+.env
+.venv/
+temp-profile-*/
+playwright_screenshot.png
+form_demo.png
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/

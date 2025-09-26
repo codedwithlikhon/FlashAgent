@@ -1,0 +1,52 @@
+{
+  "common": {
+    "yes": "Yes",
+    "cancel": "Cancel"
+  },
+  "setting": {
+    "mcpService": {
+      "title": "Model Context Protocol Services",
+      "noServersAvailable": "No servers available",
+      "noServerSelected": "Select a server to view its configuration",
+      "importFromJson": "Import from JSON",
+      "addMcpServer": "Add MCP Server",
+      "importModalTitle": "Import MCP configuration",
+      "ok": "Import",
+      "cancel": "Cancel",
+      "save": "Save",
+      "name": "Name",
+      "namePlaceholder": "Enter a display name",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe the server",
+      "type": "Type",
+      "stdio": "Stdio",
+      "sse": "Server Sent Events",
+      "streamableHttp": "Streamable HTTP",
+      "command": "Command",
+      "commandPlaceholder": "Command to launch the MCP server",
+      "packageSource": "Package source",
+      "default": "Default",
+      "taobaoNpmMirror": "Taobao NPM Mirror",
+      "tsinghua": "Tsinghua Mirror",
+      "aliyun": "Aliyun Mirror",
+      "ustc": "USTC Mirror",
+      "huaweiCloud": "Huawei Cloud Mirror",
+      "tencentCloud": "Tencent Cloud Mirror",
+      "url": "URL",
+      "args": "Arguments",
+      "argsPlaceholder": "One argument per line",
+      "env": "Environment variables",
+      "envPlaceholder": "KEY=VALUE per line",
+      "deleteConfirmTitle": "Delete server",
+      "deleteConfirmContent": "Are you sure you want to delete this MCP server?",
+      "importJson": "Paste the JSON payload"
+    }
+  },
+  "mcpService": {
+    "connectionFailed": "Connection failed",
+    "importSuccess": "Imported {count} servers",
+    "noValidServer": "No valid server entries found",
+    "importSuccessSingle": "Imported server",
+    "invalidJson": "Invalid JSON payload"
+  }
+}
